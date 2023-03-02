@@ -1,0 +1,18 @@
+.card-widget {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px;
+}   
+
+.card-widget > img {
+    width: 40px;
+    height: 40px;
+}
+
+.card-widget > span {
+    text-decoration: solid;
+    color: rgb(28, 9, 110);
+font-weight: bold;
+
+}
